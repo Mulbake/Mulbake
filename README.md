@@ -12,13 +12,14 @@
   <img align="center" alt="Mulbake-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mulbake-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mulbake-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mulbake-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Mulbake-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
    </div>
    
-   https://www.instagram.com/g_mulbake_/
-    <a href="https://instagram.com/g_mulbake_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-      
    <div>
-  <img align="right" height="200" width="200"  alt=img-Mulbake src="https://user-images.githubusercontent.com/111647012/214725532-29574336-8cd9-45aa-a89f-834a282ebb63.png">
-</div>
+    <a href="https://instagram.com/g_mulbake_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+      </div>
+   
+    <div>
+  <img align="right" height="200" width="200"  alt=img-Mulbake src="https://user-images.githubusercontent.com/111647012/214725532-29574336-8cd9-45aa-a89f-834a282ebb63.png">     
+   </div>
 
