@@ -7,7 +7,7 @@
   <img height="111em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mulbake&layout=compact&langs_count=7&theme=dracula"/>
       
 </div>
-  <img align="center" height="200" width="200"  alt=img-Mulbake src="https://user-images.githubusercontent.com/111647012/214725532-29574336-8cd9-45aa-a89f-834a282ebb63.png">
+  <img align="right" height="200" width="200"  alt=img-Mulbake src="https://user-images.githubusercontent.com/111647012/214725532-29574336-8cd9-45aa-a89f-834a282ebb63.png">
    <div>
       <br>
 <div style="display: inline_block"><br>
