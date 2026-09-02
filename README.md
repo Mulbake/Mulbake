@@ -11,7 +11,7 @@
 
 ### 🗡️ Sobre Mim
 
-👋 Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas** focado em **Red Teaming** e segurança ofensiva. Dedico meus estudos à simulação de adversários, exploração de vulnerabilidades, automação de exploits com Python e segurança de redes.
+👋 Olá! Sou formado de **Análise e Desenvolvimento de Sistemas** focado em **Red Teaming** e segurança ofensiva. Dedico meus estudos à simulação de adversários, exploração de vulnerabilidades, automação de exploits com Python e segurança de redes.
 
 ---
 
