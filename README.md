@@ -1,47 +1,39 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Gabriel Mulbake!
+# 👨‍💻 Gabriel Mulbake
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
-💡 Apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.
+`Estudante de Análise e Desenvolvimento de Sistemas`
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/g_mulbake_)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mulbake)
 
 ---
 
-### 🛠️ Linguagens e Tecnologias
+### 🚀 Sobre Mim
+
+👋 Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em aprender novas tecnologias e construir soluções eficientes. Sempre buscando evoluir minhas habilidades de codificação e resolução de problemas.
+
+---
+
+### 🛠️ Stacks & Tecnologias
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <a href="https://github.com/mulbake">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mulbake&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/mulbake">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mulbake&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
-  </a>
-</p>
+| Estatísticas | Linguagens Mais Usadas |
+| :-: | :-: |
+| <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mulbake&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" /> | <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mulbake&layout=compact&langs_count=7&theme=dracula&hide_border=true" /> |
 
----
+<br>
 
-### 🌐 Conecte-se comigo
-
-<a href="https://instagram.com/g_mulbake_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/111647012/214725532-29574336-8cd9-45aa-a89f-834a282ebb63.png" width="180" alt="Animação Mulbake" />
+<img src="https://user-images.githubusercontent.com/111647012/214725532-29574336-8cd9-45aa-a89f-834a282ebb63.png" width="160" alt="Mascote" />
 
 </div>
