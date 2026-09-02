@@ -24,14 +24,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
----
-
-### 📊 Estatísticas do GitHub
-
-| Estatísticas | Linguagens Mais Usadas |
-| :-: | :-: |
-| <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mulbake&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" /> | <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mulbake&layout=compact&langs_count=7&theme=dracula&hide_border=true" /> |
-
 <br>
 
 <img src="https://user-images.githubusercontent.com/111647012/214725532-29574336-8cd9-45aa-a89f-834a282ebb63.png" width="160" alt="Mascote" />
