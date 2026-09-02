@@ -11,7 +11,7 @@
 
 ### 🗡️ Sobre Mim
 
-👋 Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas** e atualmente cursando **Pós-Graduação em Red Team & Segurança Ofensiva**. Minha formação une o desenvolvimento de software robusto à simulação avançada de adversários, testes de invasão e análise de vulnerabilidades.
+👋 Olá! Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente cursando **Pós-Graduação em Red Team & Segurança Ofensiva**. Minha formação une o desenvolvimento de software robusto à simulação avançada de adversários, testes de invasão e análise de vulnerabilidades.
 
 ---
 
